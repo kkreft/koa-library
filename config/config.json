@@ -1,0 +1,18 @@
+{
+  "development": {
+    "username": "root",
+    "password": "ultr@Fox54",
+    "database": "koa-library",
+    "host": "mysql",
+    "dialect": "mysql",
+    "port": 3006,
+    "jwt_secret": "2dd0390223b22ee74449942c"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
